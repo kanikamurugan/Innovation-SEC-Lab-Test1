@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: left;
+    padding: 10px;
+    margin: 0;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: black;
+    font-size: 10px;
+    margin: 0;
+    padding: 10px;
+    color: aliceblue;
+}
